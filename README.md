@@ -1,4 +1,3 @@
-# 2-sherlockas
 Simple design, learning HTML and CSS
 
 # Sherlock
